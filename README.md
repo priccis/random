@@ -8,3 +8,11 @@ Anything goes here
 
 
 > code here 
+<kbd>Ctrl+C</kbd>
+
+Id | Nombre
+---|---
+1 | Trev
+5 | john
+
+
